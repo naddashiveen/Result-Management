@@ -1,1 +1,2 @@
 # Result-Management
+The Result Management System is a MERN stack application that allows students to view their academic results by entering their unique student ID. The backend uses Express and MongoDB to store and retrieve student result data, while the React frontend enables students to fetch and view their results. This project provides a secure and user-friendly interface for result management.
